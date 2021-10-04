@@ -1,0 +1,73 @@
+[{
+        "index": 0,
+        "service": "Responsive Web Design with HTML5 & CSS3",
+        "price": 500,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-1-580x385.jpg",
+        "teacher": "Jessica Doe",
+        "designation": "Computer Scientist"
+    },
+    {
+        "index": 1,
+        "service": "The Complete Cyber Security Course",
+        "price": 700,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-2-580x385.jpg",
+        "teacher": "Kevin Martin",
+        "designation": "Computer Scientist"
+    },
+    {
+        "index": 2,
+        "service": "Sales Training Practical Sales Techniques",
+        "price": 700,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-3-580x385.jpg",
+        "teacher": "David Joe",
+        "designation": "Business Analysis"
+    },
+    {
+        "index": 3,
+        "service": "Sales Training Practical Sales Techniques",
+        "price": 300,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-3-580x385.jpg",
+        "teacher": "David Joe",
+        "designation": "Business Analysis"
+    },
+    {
+        "index": 4,
+        "service": "The Complete Product Management Course",
+        "price": 800,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-4-580x385.jpg",
+        "teacher": "David jane",
+        "designation": "Business Analysis"
+    },
+    {
+        "index": 5,
+        "service": "Swift programming for beginners",
+        "price": 600,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-5-580x385.jpg",
+        "teacher": "Rakib Hossain",
+        "designation": "Computer Scientist"
+    },
+    {
+        "index": 6,
+        "service": "The Complete Salesforce Classic Administrator",
+        "price": 500,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-6-580x385.jpg",
+        "teacher": "Jenica Smith",
+        "designation": "Computer Scientist"
+    },
+    {
+        "index": 7,
+        "service": "Workshop in Probability and Statistics",
+        "price": 200,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-7-580x385.jpg",
+        "teacher": "Jone Smith",
+        "designation": "Civil Engineer"
+    },
+    {
+        "index": 8,
+        "service": "AWS Certified Cloud Practitioner",
+        "price": 900,
+        "img": "https://gaviaspreview.com/wp/zilom/wp-content/uploads/2021/06/course-7-580x385.jpg",
+        "teacher": "Jane Doe",
+        "designation": "Computer Scientist"
+    }
+]

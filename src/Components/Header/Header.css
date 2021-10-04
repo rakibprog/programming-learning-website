@@ -1,0 +1,28 @@
+.navbar-bg {
+    background-color: #fff;
+}
+
+.nav-color a:hover {
+    color: #00bcd4 !important;
+}
+
+.nav-color a:hover {
+    border-bottom: solid 2px #00bcd4;
+}
+
+.nav-color a {
+    border-bottom: solid 2px transparent;
+    padding: 0.4rem 1.5rem;
+    margin-left: .5rem;
+    color: #2b2b2b !important;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.nav-color a {
+    text-decoration: none;
+}
+
+.navbb {
+    text-decoration: none !important;
+}
